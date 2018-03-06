@@ -1,0 +1,88 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mock.com" resolutions="1x,2x" timestamp="1520347560585">
+  <folder name="css">
+    <file name="site_global.css" crc="347579958"/>
+    <file name="index.css" crc="3993112773" ref="index"/>
+    <file name="learnpage.css" crc="4130650290" ref="learnpage"/>
+    <file name="learnpage-copy.css" crc="139943237" ref="learnpage-copy"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:learnpage:learnpage-copy"/>
+    <file name="museutils.js" crc="3803043152" ref="index:learnpage:learnpage-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:learnpage:learnpage-copy"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:learnpage:learnpage-copy"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:learnpage:learnpage-copy"/>
+    <file name="webpro.js" crc="242022427" ref="index:learnpage:learnpage-copy"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:learnpage:learnpage-copy"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1523.php" crc="4007623038" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:learnpage:learnpage-copy"/>
+    <file name="require.js" crc="4157109226" ref="index:learnpage:learnpage-copy"/>
+  </folder>
+  <folder name="images">
+    <file name="u1701-6.png" crc="3906551898" ref="index"/>
+    <file name="u1701-6_2x.png" crc="18639366" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1490-4.png" crc="4238966736" ref="index"/>
+    <file name="u1490-4_2x.png" crc="452769496" ref="index"/>
+    <file name="u1708-4.png" crc="4732813" ref="index"/>
+    <file name="u1708-4_2x.png" crc="4112352939" ref="index"/>
+    <file name="cactus-crop-u1757.jpg" crc="3884656017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u1757_2x.jpg" crc="265802501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u1759.jpg" crc="443593452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u1759_2x.jpg" crc="120222999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1755.jpg" crc="3960494083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1755_2x.jpg" crc="183706026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u4180-4.png" crc="3790724849" ref="index"/>
+    <file name="u4180-4_2x.png" crc="4154914652" ref="index"/>
+    <file name="cactus-crop-u4606.jpg" crc="3884656017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u4606_2x.jpg" crc="265802501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u4608.jpg" crc="443593452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u4608_2x.jpg" crc="120222999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u4604.jpg" crc="3960494083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u4604_2x.jpg" crc="183706026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1698-4.png" crc="3866044058" ref="index"/>
+    <file name="u1698-4_2x.png" crc="3832329593" ref="index"/>
+    <file name="u1829-4.png" crc="159561261" ref="index"/>
+    <file name="u1829-4_2x.png" crc="3852341176" ref="index"/>
+    <file name="cactus219x145.jpg" crc="392288971" seo="true" ref="learnpage">
+      <caption webpage="learnpage" alt=""/>
+    </file>
+    <file name="cactus219x145_2x.jpg" crc="248314538" seo="true" ref="learnpage">
+      <caption webpage="learnpage" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3898211622" seo="true" mt="1520122070771" redirect="true"/>
+  <file name="learnpage.html" crc="246630725" seo="true" mt="1520123829531" redirect="true"/>
+  <file name="learnpage-copy.html" crc="303628298" seo="true" mt="1520124307600" redirect="true"/>
+</manifest>
