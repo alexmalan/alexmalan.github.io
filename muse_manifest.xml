@@ -1,9 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mock.com" resolutions="1x,2x" timestamp="1520388772587">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.com" resolutions="1x,2x" timestamp="1520875550087">
   <folder name="css">
-    <file name="site_global.css" crc="314571582"/>
-    <file name="learnpage.css" crc="257414560" ref="learnpage"/>
-    <file name="learnpage-copy.css" crc="490951437" ref="learnpage-copy"/>
-    <file name="index.css" crc="313004729" ref="index"/>
+    <file name="site_global.css" crc="347579958"/>
+    <file name="index.css" crc="8828072" ref="index"/>
+    <file name="learnpage.css" crc="4285571" ref="learnpage"/>
+    <file name="learnpage-copy.css" crc="4162255315" ref="learnpage-copy"/>
+  </folder>
+  <folder name="assets">
+    <file name="11.mp4" crc="67051125" seo="true" mt="1520874240000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:learnpage:learnpage-copy"/>
@@ -25,13 +28,13 @@
     <file name="require.js" crc="4157109226" ref="index:learnpage:learnpage-copy"/>
   </folder>
   <folder name="images">
-    <file name="u1701-6.png" crc="3906551898" ref="index"/>
-    <file name="u1701-6_2x.png" crc="18639366" ref="index"/>
+    <file name="u1701-6.png" crc="4261699686" ref="index"/>
+    <file name="u1701-6_2x.png" crc="4036573519" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u1490-4.png" crc="4238966736" ref="index"/>
-    <file name="u1490-4_2x.png" crc="452769496" ref="index"/>
-    <file name="u1708-4.png" crc="4732813" ref="index"/>
-    <file name="u1708-4_2x.png" crc="4112352939" ref="index"/>
+    <file name="u1490-4.png" crc="111134661" ref="index"/>
+    <file name="u1490-4_2x.png" crc="504206541" ref="index"/>
+    <file name="u1708-4.png" crc="212980174" ref="index"/>
+    <file name="u1708-4_2x.png" crc="323620105" ref="index"/>
     <file name="cactus-crop-u1757.jpg" crc="3884656017" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -51,8 +54,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u4180-4.png" crc="3790724849" ref="index"/>
-    <file name="u4180-4_2x.png" crc="4154914652" ref="index"/>
+    <file name="u4180-4.png" crc="4181251138" ref="index"/>
+    <file name="u4180-4_2x.png" crc="38410948" ref="index"/>
     <file name="cactus-crop-u4606.jpg" crc="3884656017" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -71,10 +74,10 @@
     <file name="trees-crop-u4604_2x.jpg" crc="183706026" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1698-4.png" crc="3866044058" ref="index"/>
-    <file name="u1698-4_2x.png" crc="3832329593" ref="index"/>
-    <file name="u1829-4.png" crc="159561261" ref="index"/>
-    <file name="u1829-4_2x.png" crc="3852341176" ref="index"/>
+    <file name="u1698-4.png" crc="282016784" ref="index"/>
+    <file name="u1698-4_2x.png" crc="4034542847" ref="index"/>
+    <file name="u1829-4.png" crc="3994069040" ref="index"/>
+    <file name="u1829-4_2x.png" crc="491214274" ref="index"/>
     <file name="cactus219x145.jpg" crc="392288971" seo="true" ref="learnpage">
       <caption webpage="learnpage" alt=""/>
     </file>
@@ -82,7 +85,7 @@
       <caption webpage="learnpage" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3942921334" seo="true" mt="1520388757129" redirect="true"/>
-  <file name="learnpage.html" crc="534361291" seo="true" mt="1520123829531" redirect="true"/>
-  <file name="learnpage-copy.html" crc="4127766091" seo="true" mt="1520124307600" redirect="true"/>
+  <file name="index.html" crc="4110944538" seo="true" mt="1520122070771" redirect="true"/>
+  <file name="learnpage.html" crc="3977720983" seo="true" mt="1520123829531" redirect="true"/>
+  <file name="learnpage-copy.html" crc="3979084442" seo="true" mt="1520875242818" redirect="true"/>
 </manifest>
