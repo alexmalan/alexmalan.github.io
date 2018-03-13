@@ -2,26 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://a.com/index.html</loc>
-    <lastmod>2018-03-04</lastmod>
+    <lastmod>2018-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://a.com/images/cactus-crop-u1757.jpg</image:loc>
+      <image:loc>http://a.com/images/51.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/cactus-crop-u1757_2x.jpg</image:loc>
+      <image:loc>http://a.com/images/pd-light-bulb.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/road-crop-u1759.jpg</image:loc>
+      <image:loc>http://a.com/images/190704.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/road-crop-u1759_2x.jpg</image:loc>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20142952-crop-u1757.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/trees-crop-u1755.jpg</image:loc>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20142952-crop-u1757_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/trees-crop-u1755_2x.jpg</image:loc>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143022-crop-u7258.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143022-crop-u7258_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7278_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143022-crop-u7317.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143022-crop-u7317_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7337.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7337_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143055-crop-u7357.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143055-crop-u7357_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://a.com/images/cactus-crop-u4606.jpg</image:loc>
@@ -41,28 +68,100 @@
     <image:image>
       <image:loc>http://a.com/images/trees-crop-u4604_2x.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://a.com/learnpage.html</loc>
-    <lastmod>2018-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://a.com/images/cactus219x145.jpg</image:loc>
+      <image:loc>http://a.com/images/cactus-crop-u7410.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/cactus219x145_2x.jpg</image:loc>
+      <image:loc>http://a.com/images/cactus-crop-u7410_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/road-crop-u7412.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/road-crop-u7412_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/trees-crop-u7414.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/trees-crop-u7414_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://a.com/learnpage-copy.html</loc>
-    <lastmod>2018-03-12</lastmod>
+    <loc>http://a.com/mainpage.html</loc>
+    <lastmod>2018-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://a.com/assets/11.mp4</loc>
-    <lastmod>2018-03-12</lastmod>
+    <loc>http://a.com/lecture-1.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-2.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-3.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-4.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-5.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-6.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-7.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-8.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-9.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-10.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-11.html</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/lecture-12.html</loc>
+    <lastmod>2018-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
