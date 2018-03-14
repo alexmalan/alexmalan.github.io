@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://a.com/index.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://a.com/images/51.png</image:loc>
+      <image:loc>http://a.com/images/51287x288.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://a.com/images/pd-light-bulb.png</image:loc>
@@ -15,16 +15,13 @@
       <image:loc>http://a.com/images/190704.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20142952-crop-u1757.jpg</image:loc>
+      <image:loc>http://a.com/images/51-crop-u1757.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20142952-crop-u1757_2x.jpg</image:loc>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u7258.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143022-crop-u7258.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143022-crop-u7258_2x.jpg</image:loc>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u7258_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7278.jpg</image:loc>
@@ -33,10 +30,10 @@
       <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7278_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143022-crop-u7317.jpg</image:loc>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u7317.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143022-crop-u7317_2x.jpg</image:loc>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u7317_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7337.png</image:loc>
