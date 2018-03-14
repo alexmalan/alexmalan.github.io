@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.com" resolutions="1x,2x" timestamp="1521020235128">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.com" resolutions="1x,2x" timestamp="1521023979152">
   <folder name="css">
     <file name="site_global.css" crc="314571582"/>
-    <file name="lecture-10.css" crc="4090914323" ref="lecture-10"/>
-    <file name="lecture-4.css" crc="3887540163" ref="lecture-4"/>
-    <file name="lecture-11.css" crc="3867342626" ref="lecture-11"/>
-    <file name="lecture-5.css" crc="211562385" ref="lecture-5"/>
-    <file name="index.css" crc="4215885882" ref="index"/>
-    <file name="lecture-12.css" crc="4089671012" ref="lecture-12"/>
-    <file name="lecture-6.css" crc="3799983756" ref="lecture-6"/>
-    <file name="mainpage.css" crc="3939171974" ref="mainpage"/>
-    <file name="lecture-3.css" crc="4196905638" ref="lecture-3"/>
-    <file name="lecture-7.css" crc="227283461" ref="lecture-7"/>
-    <file name="lecture-1.css" crc="21757239" ref="lecture-1"/>
-    <file name="lecture-8.css" crc="366231839" ref="lecture-8"/>
-    <file name="lecture-2.css" crc="295724052" ref="lecture-2"/>
-    <file name="lecture-9.css" crc="3919046876" ref="lecture-9"/>
+    <file name="lecture-2.css" crc="321080262" ref="lecture-2"/>
+    <file name="lecture-7.css" crc="3844796105" ref="lecture-7"/>
+    <file name="lecture-3.css" crc="4171537780" ref="lecture-3"/>
+    <file name="lecture-12.css" crc="255677469" ref="lecture-12"/>
+    <file name="lecture-4.css" crc="3845392401" ref="lecture-4"/>
+    <file name="index.css" crc="3925026382" ref="index"/>
+    <file name="mainpage.css" crc="4268285899" ref="mainpage"/>
+    <file name="lecture-8.css" crc="4252155347" ref="lecture-8"/>
+    <file name="lecture-6.css" crc="182049344" ref="lecture-6"/>
+    <file name="lecture-11.css" crc="237243374" ref="lecture-11"/>
+    <file name="lecture-1.css" crc="423746459" ref="lecture-1"/>
+    <file name="lecture-9.css" crc="4294277729" ref="lecture-9"/>
+    <file name="lecture-5.css" crc="381291847" ref="lecture-5"/>
+    <file name="lecture-10.css" crc="460364511" ref="lecture-10"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12"/>
@@ -149,18 +149,18 @@
       <caption webpage="mainpage" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3913750634" seo="true" mt="1521020032777" redirect="true"/>
-  <file name="mainpage.html" crc="153557608" seo="true" mt="1521020198103" redirect="true"/>
-  <file name="lecture-1.html" crc="3960753271" seo="true" mt="1520980405660" redirect="true"/>
-  <file name="lecture-2.html" crc="6344932" seo="true" mt="1520980990563" redirect="true"/>
-  <file name="lecture-3.html" crc="4212701449" seo="true" mt="1520981098943" redirect="true"/>
-  <file name="lecture-4.html" crc="280044144" seo="true" mt="1520982036756" redirect="true"/>
-  <file name="lecture-5.html" crc="283676089" seo="true" mt="1520982080821" redirect="true"/>
-  <file name="lecture-6.html" crc="4230759299" seo="true" mt="1520982103640" redirect="true"/>
-  <file name="lecture-7.html" crc="3808320314" seo="true" mt="1520982128470" redirect="true"/>
-  <file name="lecture-8.html" crc="25164681" seo="true" mt="1520982150057" redirect="true"/>
-  <file name="lecture-9.html" crc="2260670" seo="true" mt="1520982175950" redirect="true"/>
-  <file name="lecture-10.html" crc="3783322430" seo="true" mt="1520982201012" redirect="true"/>
-  <file name="lecture-11.html" crc="242059232" seo="true" mt="1520982227990" redirect="true"/>
-  <file name="lecture-12.html" crc="3880498316" seo="true" mt="1520982250640" redirect="true"/>
+  <file name="index.html" crc="3857797932" seo="true" mt="1521020032777" redirect="true"/>
+  <file name="mainpage.html" crc="4228076846" seo="true" mt="1521020198103" redirect="true"/>
+  <file name="lecture-1.html" crc="154045030" seo="true" mt="1521023907837" redirect="true"/>
+  <file name="lecture-2.html" crc="4219435681" seo="true" mt="1520980990563" redirect="true"/>
+  <file name="lecture-3.html" crc="4273109642" seo="true" mt="1520981098943" redirect="true"/>
+  <file name="lecture-4.html" crc="238583243" seo="true" mt="1520982036756" redirect="true"/>
+  <file name="lecture-5.html" crc="4049547931" seo="true" mt="1520982080821" redirect="true"/>
+  <file name="lecture-6.html" crc="442320417" seo="true" mt="1520982103640" redirect="true"/>
+  <file name="lecture-7.html" crc="3948657568" seo="true" mt="1520982128470" redirect="true"/>
+  <file name="lecture-8.html" crc="4204008913" seo="true" mt="1520982150057" redirect="true"/>
+  <file name="lecture-9.html" crc="243906458" seo="true" mt="1520982175950" redirect="true"/>
+  <file name="lecture-10.html" crc="502402896" seo="true" mt="1520982201012" redirect="true"/>
+  <file name="lecture-11.html" crc="4016815935" seo="true" mt="1520982227990" redirect="true"/>
+  <file name="lecture-12.html" crc="3878801511" seo="true" mt="1520982250640" redirect="true"/>
 </manifest>
