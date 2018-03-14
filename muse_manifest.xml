@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.com" resolutions="1x,2x" timestamp="1520983335752">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.com" resolutions="1x,2x" timestamp="1520991150406">
   <folder name="css">
     <file name="site_global.css" crc="314571582"/>
-    <file name="lecture-10.css" crc="460364511" ref="lecture-10"/>
-    <file name="lecture-3.css" crc="4171537780" ref="lecture-3"/>
-    <file name="lecture-12.css" crc="255677469" ref="lecture-12"/>
-    <file name="lecture-2.css" crc="321080262" ref="lecture-2"/>
-    <file name="index.css" crc="351236852" ref="index"/>
-    <file name="lecture-11.css" crc="237243374" ref="lecture-11"/>
-    <file name="mainpage.css" crc="3952909012" ref="mainpage"/>
-    <file name="lecture-9.css" crc="4294277729" ref="lecture-9"/>
-    <file name="lecture-1.css" crc="72169850" ref="lecture-1"/>
-    <file name="lecture-8.css" crc="4252155347" ref="lecture-8"/>
-    <file name="lecture-5.css" crc="381291847" ref="lecture-5"/>
-    <file name="lecture-6.css" crc="182049344" ref="lecture-6"/>
-    <file name="lecture-4.css" crc="3845392401" ref="lecture-4"/>
-    <file name="lecture-7.css" crc="3844796105" ref="lecture-7"/>
+    <file name="lecture-7.css" crc="115695649" ref="lecture-7"/>
+    <file name="lecture-1.css" crc="4132746579" ref="lecture-1"/>
+    <file name="lecture-8.css" crc="515715899" ref="lecture-8"/>
+    <file name="lecture-2.css" crc="323561615" ref="lecture-2"/>
+    <file name="lecture-3.css" crc="4174315069" ref="lecture-3"/>
+    <file name="lecture-10.css" crc="4173272119" ref="lecture-10"/>
+    <file name="lecture-4.css" crc="3848170328" ref="lecture-4"/>
+    <file name="lecture-11.css" crc="3991635206" ref="lecture-11"/>
+    <file name="lecture-5.css" crc="3896728114" ref="lecture-5"/>
+    <file name="index.css" crc="3785370618" ref="index"/>
+    <file name="lecture-12.css" crc="270764011" ref="lecture-12"/>
+    <file name="lecture-6.css" crc="3910554792" ref="lecture-6"/>
+    <file name="mainpage.css" crc="4150769816" ref="mainpage"/>
+    <file name="lecture-9.css" crc="393790635" ref="lecture-9"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12"/>
@@ -42,28 +42,28 @@
     <file name="190704.png" crc="40695952" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 142952-crop-u1757.jpg" crc="4097703333" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 142952-crop-u1757.jpg" crc="282800412" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 142952-crop-u1757_2x.jpg" crc="92623055" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 142952-crop-u1757_2x.jpg" crc="4157305823" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 143022-crop-u7258.jpg" crc="279933089" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 143022-crop-u7258.jpg" crc="3917174431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 143022-crop-u7258_2x.jpg" crc="4133616552" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 143022-crop-u7258_2x.jpg" crc="3921026835" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 143053-crop-u7278.jpg" crc="4151234179" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 143053-crop-u7278.jpg" crc="3798371332" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 143053-crop-u7278_2x.jpg" crc="3916826243" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 143053-crop-u7278_2x.jpg" crc="185616133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 143022-crop-u7317.jpg" crc="279933089" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 143022-crop-u7317.jpg" crc="3917174431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 143022-crop-u7317_2x.jpg" crc="4133616552" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 143022-crop-u7317_2x.jpg" crc="3921026835" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="screen shot 2018-03-13 at 143053-crop-u7337.png" crc="4224901498" seo="true" ref="index">
@@ -72,47 +72,47 @@
     <file name="screen shot 2018-03-13 at 143053-crop-u7337_2x.png" crc="3973035581" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 143055-crop-u7357.jpg" crc="4088199961" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 143055-crop-u7357.jpg" crc="4212954921" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 143055-crop-u7357_2x.jpg" crc="3801111916" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 143055-crop-u7357_2x.jpg" crc="4275305821" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="screen shot 2018-03-13 at 231755-crop-u4606.jpg" crc="8487467" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231755-crop-u4606.jpg" crc="4289626469" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231755-crop-u4606_2x.jpg" crc="280126399" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231755-crop-u4606_2x.jpg" crc="4103393259" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231805-crop-u15204.jpg" crc="3927931341" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231805-crop-u15204.jpg" crc="426614816" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231805-crop-u15204_2x.jpg" crc="4253141109" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231805-crop-u15204_2x.jpg" crc="50454243" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231819-crop-u15224.jpg" crc="4220214447" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231819-crop-u15224.jpg" crc="4112307601" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231819-crop-u15224_2x.jpg" crc="4268524203" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231819-crop-u15224_2x.jpg" crc="4232638429" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231826-crop-u7410.jpg" crc="140198457" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231826-crop-u7410.jpg" crc="231984366" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231826-crop-u7410_2x.jpg" crc="4004361942" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231826-crop-u7410_2x.jpg" crc="3854166699" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231833-crop-u15138.jpg" crc="4284765591" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231833-crop-u15138.jpg" crc="472724963" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231833-crop-u15138_2x.jpg" crc="4162701780" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231833-crop-u15138_2x.jpg" crc="344071448" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231838-crop-u15158.jpg" crc="4233622550" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231838-crop-u15158.jpg" crc="364801265" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2018-03-13 at 231838-crop-u15158_2x.jpg" crc="4111515913" seo="true" ref="index">
+    <file name="screen shot 2018-03-13 at 231838-crop-u15158_2x.jpg" crc="3829902378" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1497195101_sublime-text.png" crc="28488088" seo="true" ref="mainpage">
@@ -152,18 +152,18 @@
       <caption webpage="mainpage" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="194589189" seo="true" mt="1520983214021" redirect="true"/>
-  <file name="mainpage.html" crc="467887307" seo="true" mt="1520983134525" redirect="true"/>
-  <file name="lecture-1.html" crc="3803791925" seo="true" mt="1520980405660" redirect="true"/>
-  <file name="lecture-2.html" crc="4219435681" seo="true" mt="1520980990563" redirect="true"/>
-  <file name="lecture-3.html" crc="4273109642" seo="true" mt="1520981098943" redirect="true"/>
-  <file name="lecture-4.html" crc="238583243" seo="true" mt="1520982036756" redirect="true"/>
-  <file name="lecture-5.html" crc="4049547931" seo="true" mt="1520982080821" redirect="true"/>
-  <file name="lecture-6.html" crc="442320417" seo="true" mt="1520982103640" redirect="true"/>
-  <file name="lecture-7.html" crc="3948657568" seo="true" mt="1520982128470" redirect="true"/>
-  <file name="lecture-8.html" crc="4204008913" seo="true" mt="1520982150057" redirect="true"/>
-  <file name="lecture-9.html" crc="243906458" seo="true" mt="1520982175950" redirect="true"/>
-  <file name="lecture-10.html" crc="502402896" seo="true" mt="1520982201012" redirect="true"/>
-  <file name="lecture-11.html" crc="4016815935" seo="true" mt="1520982227990" redirect="true"/>
-  <file name="lecture-12.html" crc="3878801511" seo="true" mt="1520982250640" redirect="true"/>
+  <file name="index.html" crc="3778573792" seo="true" mt="1520983214021" redirect="true"/>
+  <file name="mainpage.html" crc="337090398" seo="true" mt="1520991089915" redirect="true"/>
+  <file name="lecture-1.html" crc="458481580" seo="true" mt="1520980405660" redirect="true"/>
+  <file name="lecture-2.html" crc="111756997" seo="true" mt="1520980990563" redirect="true"/>
+  <file name="lecture-3.html" crc="75519421" seo="true" mt="1520981098943" redirect="true"/>
+  <file name="lecture-4.html" crc="3834520345" seo="true" mt="1520982036756" redirect="true"/>
+  <file name="lecture-5.html" crc="142577008" seo="true" mt="1520982080821" redirect="true"/>
+  <file name="lecture-6.html" crc="265099598" seo="true" mt="1520982103640" redirect="true"/>
+  <file name="lecture-7.html" crc="4120114957" seo="true" mt="1520982128470" redirect="true"/>
+  <file name="lecture-8.html" crc="4114587862" seo="true" mt="1520982150057" redirect="true"/>
+  <file name="lecture-9.html" crc="4155465781" seo="true" mt="1520982175950" redirect="true"/>
+  <file name="lecture-10.html" crc="178460891" seo="true" mt="1520982201012" redirect="true"/>
+  <file name="lecture-11.html" crc="351907048" seo="true" mt="1520982227990" redirect="true"/>
+  <file name="lecture-12.html" crc="19285901" seo="true" mt="1520982250640" redirect="true"/>
 </manifest>
