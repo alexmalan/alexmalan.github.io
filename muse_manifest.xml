@@ -1,0 +1,181 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.com" resolutions="1x,2x" timestamp="1521141657458">
+  <folder name="css">
+    <file name="site_global.css" crc="314571582"/>
+    <file name="lecture-9.css" crc="4218709924" ref="lecture-9"/>
+    <file name="lecture-4.css" crc="4115966139" ref="lecture-4"/>
+    <file name="lecture-3.css" crc="3905175006" ref="lecture-3"/>
+    <file name="lecture-10.css" crc="3778406763" ref="lecture-10"/>
+    <file name="learningresources.css" crc="452736860" ref="learningresources"/>
+    <file name="tools.css" crc="4038691004" ref="tools"/>
+    <file name="lecture-11.css" crc="266210365" ref="lecture-11"/>
+    <file name="lecture-5.css" crc="511680745" ref="lecture-5"/>
+    <file name="index.css" crc="283122316" ref="index"/>
+    <file name="nomq_index.css" crc="41316256" ref="index"/>
+    <file name="lecture-12.css" crc="3777028636" ref="lecture-12"/>
+    <file name="lecture-6.css" crc="4036798964" ref="lecture-6"/>
+    <file name="mainpage.css" crc="17971432" ref="mainpage"/>
+    <file name="lecture-7.css" crc="527408509" ref="lecture-7"/>
+    <file name="lecture-1.css" crc="60065779" ref="lecture-1"/>
+    <file name="lecture-8.css" crc="121097831" ref="lecture-8"/>
+    <file name="lecture-2.css" crc="54782828" ref="lecture-2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+    <file name="museutils.js" crc="3803043152" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+    <file name="museconfig.js" crc="380897831" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+    <file name="webpro.js" crc="242022427" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:mainpage:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:lecture-1:lecture-2:lecture-3:lecture-4:lecture-5:lecture-6:lecture-7:lecture-8:lecture-9:lecture-10:lecture-11:lecture-12:tools:learningresources"/>
+    <file name="51287x288.png" crc="4207692635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pd-light-bulb.png" crc="4080689125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="190704.png" crc="40695952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="51-crop-u1757.png" crc="129198330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 183717-crop-u7258.jpg" crc="4007511482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 183717-crop-u7258_2x.jpg" crc="4013356840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 143053-crop-u7278.png" crc="3934258612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 143053-crop-u7278_2x.png" crc="4197375013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 183717-crop-u7317.jpg" crc="4007511482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 183717-crop-u7317_2x.jpg" crc="4013356840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 143053-crop-u7337.png" crc="3934258612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 143053-crop-u7337_2x.png" crc="4197375013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 143055-crop-u7357.jpg" crc="90636910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 143055-crop-u7357_2x.jpg" crc="475993170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="screen shot 2018-03-13 at 231755-crop-u4606.jpg" crc="8487467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231755-crop-u4606_2x.jpg" crc="280126399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231805-crop-u15204.jpg" crc="3927931341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231805-crop-u15204_2x.jpg" crc="4253141109" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231819-crop-u15224.jpg" crc="4220214447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231819-crop-u15224_2x.jpg" crc="4268524203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231826-crop-u7410.jpg" crc="140198457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231826-crop-u7410_2x.jpg" crc="4004361942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231833-crop-u15138.jpg" crc="4284765591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231833-crop-u15138_2x.jpg" crc="4095222268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231838-crop-u15158.jpg" crc="4233622550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-03-13 at 231838-crop-u15158_2x.jpg" crc="3789091760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="51105x106.png" crc="3843936920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pd-light-bulb60x89.png" crc="285392668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19070494x95.png" crc="81905037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1497195101_sublime-text.png" crc="28488088" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="1497195101_sublime-text_2x.png" crc="3997778829" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="hiapphere_com_comsololearnjava.png" crc="332704370" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="eclipse-luna.png" crc="231520242" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="intellij-idea-logo.png" crc="281516771" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="intellij-idea-logo_2x.png" crc="73647214" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="logo_blue_dark.png" crc="320830659" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="logo_blue_dark_2x.png" crc="349913449" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="logo.png" crc="183966870" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="java_logo_largepng_480_480_0_64000_0_1_0.png" crc="97258132" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="java_logo_largepng_480_480_0_64000_0_1_0_2x.png" crc="4220024463" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+    <file name="newulogo-large-1.png" crc="127267767" seo="true" ref="mainpage">
+      <caption webpage="mainpage" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="243875056" seo="true" mt="1521141612431" redirect="true"/>
+  <file name="mainpage.html" crc="3999578108" seo="true" mt="1521139939730" redirect="true"/>
+  <file name="lecture-1.html" crc="3800934771" seo="true" mt="1521139939729" redirect="true"/>
+  <file name="lecture-2.html" crc="457087683" seo="true" mt="1521139939727" redirect="true"/>
+  <file name="lecture-3.html" crc="37451014" seo="true" mt="1521139939725" redirect="true"/>
+  <file name="lecture-4.html" crc="4048215492" seo="true" mt="1521139939723" redirect="true"/>
+  <file name="lecture-5.html" crc="4073847395" seo="true" mt="1521139939721" redirect="true"/>
+  <file name="lecture-6.html" crc="3953867743" seo="true" mt="1521139939719" redirect="true"/>
+  <file name="lecture-7.html" crc="4026427426" seo="true" mt="1521139939717" redirect="true"/>
+  <file name="lecture-8.html" crc="3934693293" seo="true" mt="1521139939716" redirect="true"/>
+  <file name="lecture-9.html" crc="203958397" seo="true" mt="1521139939713" redirect="true"/>
+  <file name="lecture-10.html" crc="327411923" seo="true" mt="1521139939712" redirect="true"/>
+  <file name="lecture-11.html" crc="4055759235" seo="true" mt="1521139939710" redirect="true"/>
+  <file name="lecture-12.html" crc="3968048148" seo="true" mt="1521139939708" redirect="true"/>
+  <file name="tools.html" crc="158930460" seo="true" mt="1521139939706" redirect="true"/>
+  <file name="learningresources.html" crc="180399916" seo="true" mt="1521139939704" redirect="true"/>
+</manifest>
