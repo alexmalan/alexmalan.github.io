@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.com" resolutions="1x,2x" timestamp="1521138019117">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="a.com" resolutions="1x,2x" timestamp="1521138314484">
   <folder name="css">
     <file name="site_global.css" crc="314571582"/>
     <file name="lecture-12.css" crc="4089671012" ref="lecture-12"/>
@@ -12,7 +12,7 @@
     <file name="lecture-4.css" crc="3887540163" ref="lecture-4"/>
     <file name="lecture-9.css" crc="3919046876" ref="lecture-9"/>
     <file name="lecture-10.css" crc="4090914323" ref="lecture-10"/>
-    <file name="index.css" crc="292604408" ref="index"/>
+    <file name="index.css" crc="4089683480" ref="index"/>
     <file name="lecture-11.css" crc="490570565" ref="lecture-11"/>
     <file name="mainpage.css" crc="334608272" ref="mainpage"/>
     <file name="lecture-1.css" crc="293013643" ref="lecture-1"/>
@@ -187,7 +187,7 @@
     <file name="tools.html" crc="121366659" seo="true" mt="1521137714453" redirect="false"/>
     <file name="learningresources.html" crc="4148493478" seo="true" mt="1521137714470" redirect="false"/>
   </folder>
-  <file name="index.html" crc="494421568" seo="true" mt="1521137714658" redirect="true"/>
+  <file name="index.html" crc="429270591" seo="true" mt="1521138271203" redirect="true"/>
   <file name="mainpage.html" crc="359385168" seo="true" mt="1521137714746" redirect="true"/>
   <file name="lecture-1.html" crc="3853374307" seo="true" mt="1521137714824" redirect="true"/>
   <file name="lecture-2.html" crc="4049960030" seo="true" mt="1521137714908" redirect="true"/>
