@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://a.com/index.html</loc>
-    <lastmod>2018-03-14</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -86,9 +86,10 @@
   </url>
   <url>
     <loc>http://a.com/mainpage.html</loc>
-    <lastmod>2018-03-14</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://a.com/phone/mainpage.html"/>
     <image:image>
       <image:loc>http://a.com/images/1497195101_sublime-text.png</image:loc>
     </image:image>
@@ -128,73 +129,85 @@
   </url>
   <url>
     <loc>http://a.com/lecture-1.html</loc>
-    <lastmod>2018-03-14</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-2.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-3.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-4.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-5.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-6.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-7.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-8.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-9.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-10.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-11.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-12.html</loc>
-    <lastmod>2018-03-13</lastmod>
+    <lastmod>2018-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/tools.html</loc>
+    <lastmod>2018-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://a.com/learningresources.html</loc>
+    <lastmod>2018-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
