@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://a.com/index.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://a.com/images/51287x288.png</image:loc>
+      <image:loc>http://a.com/images/51353x353.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://a.com/images/pd-light-bulb.png</image:loc>
@@ -75,27 +75,171 @@
       <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231833-crop-u15138.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231833-crop-u15138_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231838-crop-u15158.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231838-crop-u15158_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/51105x106.png</image:loc>
+      <image:loc>http://a.com/images/51251x251.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/pd-light-bulb60x89.png</image:loc>
+      <image:loc>http://a.com/images/pd-light-bulb216x321.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://a.com/images/19070494x95.png</image:loc>
+      <image:loc>http://a.com/images/190704249x249.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/51-crop-u17572.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u72582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u7258_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u72782.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7278_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u73172.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u7317_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u73372.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7337_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143055-crop-u73572.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143055-crop-u7357_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231755-crop-u46062.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231755-crop-u4606_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231805-crop-u152042.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231805-crop-u15204_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231819-crop-u152242.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231819-crop-u15224_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231826-crop-u74102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231826-crop-u7410_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231833-crop-u151382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231838-crop-u151582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231838-crop-u15158_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/51141x141.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/pd-light-bulb138x205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/190704190x190.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/51-crop-u17573.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u72583.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u7258_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u72783.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7278_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u73173.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20183717-crop-u7317_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u73373.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143053-crop-u7337_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143055-crop-u73573.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20143055-crop-u7357_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231755-crop-u46063.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231755-crop-u4606_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231805-crop-u152043.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231805-crop-u15204_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231819-crop-u152243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231819-crop-u15224_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231826-crop-u74103.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231826-crop-u7410_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231833-crop-u151383.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231838-crop-u151583.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/screen%20shot%202018-03-13%20at%20231838-crop-u15158_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/pd-light-bulb76x113.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://a.com/images/190704109x109.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://a.com/mainpage.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -137,85 +281,85 @@
   </url>
   <url>
     <loc>http://a.com/lecture-1.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-2.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-3.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-4.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-5.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-6.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-7.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-8.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-9.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-10.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-11.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/lecture-12.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/tools.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://a.com/learningresources.html</loc>
-    <lastmod>2018-03-15</lastmod>
+    <lastmod>2018-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
